@@ -1,2 +1,1 @@
 # CalculadoraIMC
-Versão inicial
